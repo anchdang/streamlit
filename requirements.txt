@@ -1,6 +1,9 @@
 streamlit
 yfinance
 pandas
-prophet
+prophet==1.2.4
+numpy==1.24.3
 matplotlib
 mplfinance
+cmdstanpy
+
